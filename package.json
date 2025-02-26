@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidtpires/nodejs-vidflow/issues"
   },
-  "homepage": "https://github.com/davidtpires/nodejs-vidflow#readme"
+  "homepage": "https://github.com/davidtpires/nodejs-vidflow#readme",
+  "devDependencies": {
+    "eslint": "^9.21.0"
+  }
 }
