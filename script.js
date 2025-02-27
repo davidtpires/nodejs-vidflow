@@ -1,5 +1,6 @@
 const containerVideos = document.querySelector(".videos__container");
 
+console.log(variavelquenaoexiste)
 
 async function buscarEMostrarVideos(){
     try{
