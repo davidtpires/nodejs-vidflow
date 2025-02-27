@@ -7,6 +7,8 @@ async function buscarEMostrarVideos() {
 
     videos.forEach((video) => {
       if (video.categoria == "") {
+
+
         throw new Error("Vídeo não tem categoria");
       }
       containerVideos.innerHTML += `

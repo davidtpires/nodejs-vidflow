@@ -18,6 +18,7 @@
   "homepage": "https://github.com/davidtpires/nodejs-vidflow#readme",
   "devDependencies": {
     "eslint": "^9.21.0",
+    "json-server": "^0.17.4",
     "prettier": "3.0.3"
   }
 }
