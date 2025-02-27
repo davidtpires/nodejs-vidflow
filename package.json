@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/davidtpires/nodejs-vidflow#readme",
   "devDependencies": {
-    "eslint": "^9.21.0"
+    "eslint": "^9.21.0",
+    "prettier": "3.0.3"
   }
 }
